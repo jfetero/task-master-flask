@@ -5,7 +5,7 @@ This project my very first web app using Python and the Flask framework that is 
 ## What is it?
 
 Because I just recently started learning about web apps, I wanted to go super simple for my first project. This project is a personalized to-do list app with an account system and a phone/email messaging alerting system that can be customized by the user. I also included email forms that are directly sent to my personal account.
-The files above are specific for a LOCAL application. I had to change to postgres database from a local sqlite3 database in order to keep the data persistent. I also added worker.py in order for the alert feature to continously run in the background without really slowing down the app. [Click here for deplyed version](https://github.com/jfetero/task-master-flask-heroku).
+The files above are specific for a LOCAL application. I had to change to postgres database from a local sqlite3 database in order to keep the data persistent. I also added worker.py in order for the alert feature to continously run in the background without really slowing down the app. [Click here for deployed version](https://github.com/jfetero/task-master-flask-heroku).
 
 ## Why this project?
 
