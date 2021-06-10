@@ -58,7 +58,6 @@ def phone_alerts(number, subject,body):
 
 if __name__ == '__main__':
     email_alerts('asd','asd','junhyxf@gmail.com')
-	
 
 
 
